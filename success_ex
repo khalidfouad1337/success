@@ -12,3 +12,7 @@ search_and_replace
 snake_to_camel
 ft_strlen
 ft_swap
+repeat_alpha
+first_word
+ft_putstr
+fizzbuzz
